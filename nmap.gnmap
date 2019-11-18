@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Mon Nov 18 20:10:01 2019 as: nmap -sC -sV -oA nmap -p21,22,80 10.10.196.172
+Host: 10.10.196.172 ()	Status: Up
+Host: 10.10.196.172 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/, 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/
+# Nmap done at Mon Nov 18 20:10:21 2019 -- 1 IP address (1 host up) scanned in 20.16 seconds

